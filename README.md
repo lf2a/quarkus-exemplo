@@ -40,3 +40,5 @@ Or, if you don't have GraalVM installed, you can run the native executable build
 ```
 
 You can then execute your native executable with: `./target/getting-started-1.0.0-SNAPSHOT-runner`
+
+[Todas as config](https://quarkus.io/guides/all-config)
